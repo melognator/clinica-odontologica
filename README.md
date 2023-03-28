@@ -63,15 +63,15 @@ Por defecto se crean 2 usuarios:
 El administrador podrá crear, modificar, eliminar y leer Odontólogos, Pacientes y Turnos.
 
 **Credenciales:**
-
-Email: ```melognator@gmail.com```
-Contraseña: ```melo123```
+  
+Email: ```melognator@gmail.com```  
+Contraseña: ```melo123```  
 
 ### User
 
 El usuario normal podrá ver los Turnos, así como la información de los Odontólogos y Pacientes.
 
 **Credenciales:**
-
-Email: ```lelewonita@gmail.com```
-Contraseña: ```lele123```
+  
+Email: ```lelewonita@gmail.com```  
+Contraseña: ```lele123```  
